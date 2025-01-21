@@ -3,3 +3,11 @@ Hello,mundo
 !q
 
 xxs
+Esta es una información adicional para hacer un ejemplo de commit
+..q
+
+:q
+:q!
+:w
+ls
+:wq
